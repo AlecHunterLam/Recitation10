@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2ae0503-11f0-4ad9-ba03-6bc8321c1543" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/SortWithSwapsPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/SortWithSwapsPlugin.java" afterDir="false" />
+    <list default="true" id="820fcd8f-cd7e-4cff-bf1f-4996e4a9160d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,10 +26,10 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1126000077">
+    <session id="-2094606644">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -43,52 +43,26 @@
           <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="49" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="49" />
-        </counts>
-      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MemoryPlugin.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/SortWithSwapsPlugin.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="60">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
-                <element signature="e#2004#2005#0" expanded="true" />
-                <element signature="e#2052#2053#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2982#2983#0" expanded="true" />
-                <element signature="e#3039#3040#0" expanded="true" />
-                <element signature="e#3073#3074#0" expanded="true" />
-                <element signature="e#3113#3114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,12 +83,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.9/libexec" />
+        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/3.4.1/libexec" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.9" />
+        <entry key="$PROJECT_DIR$" value="3.4.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -153,7 +127,7 @@
                 <option name="name" value="run" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -193,7 +167,7 @@
                 <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -351,7 +325,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1541003937000" />
+        <entry key="$PROJECT_DIR$" value="3082008082000" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3608604480" />
       </map>
     </option>
@@ -374,82 +348,75 @@
               <option name="name" value="Recitation10" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-groovy-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-resources-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-tooling-api-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-0.18.4.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-1.9.11.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-cli-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-docs-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-persistent-cache-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-option-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-launcher-1.9.11.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-messaging-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/groovy-all-2.4.12.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-jvm-services-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-launcher-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-core-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-installation-beacon-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-groovy-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-process-services-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-cache-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-runtime-api-info-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-native-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-logging-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-wrapper-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-jvm-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-base-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-jvm-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-init-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-maven-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-sftp-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-signing-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-s3-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-code-quality-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-test-kit-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ivy-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-osgi-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-groovy-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-java-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-antlr-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-reporting-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-play-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-gcs-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-scala-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-http-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ear-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-publish-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-composite-builds-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-dependency-management-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-native-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-base-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-jvm-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-development-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-diagnostics-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-native-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-cache-http-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-workers-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-javascript-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-native-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-jacoco-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugins-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-comparison-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-native-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-version-control-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-use-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-scala-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-play-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-logging-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-version-info-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-base-services-groovy-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-launcher-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-installation-beacon-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-jvm-services-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-native-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-process-services-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-tooling-api-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-ui-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-docs-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/ant-1.9.6.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-wrapper-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-messaging-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-model-groovy-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-model-core-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-script-kotlin-0.5.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/ant-launcher-1.9.6.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-cli-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-open-api-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-resources-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-core-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/gradle-base-services-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/groovy-all-2.4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-ide-native-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-composite-builds-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-javascript-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-platform-jvm-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-announce-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-language-jvm-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-plugin-use-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-jacoco-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-workers-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-resources-s3-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-ear-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-ide-play-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-code-quality-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-maven-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-tooling-api-builders-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-language-native-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-platform-play-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-build-comparison-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-publish-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-language-scala-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-plugins-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-signing-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-test-kit-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-osgi-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-dependency-management-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-antlr-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-language-groovy-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-plugin-development-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-diagnostics-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-scala-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-reporting-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-platform-base-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-language-java-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-testing-native-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-resources-sftp-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-jetty-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-ide-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-platform-native-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-ivy-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-build-init-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-testing-jvm-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-resources-http-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-build-cache-http-3.4.1.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="/usr/local/Cellar/gradle/3.4.1/libexec/lib/plugins/gradle-testing-base-3.4.1.jar" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -459,12 +426,14 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../homework/1" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../homework/2" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../homework/3" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../homework/4" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../02" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../06" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../07" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../08" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
@@ -474,7 +443,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/SortWithSwapsPlugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java" />
       </list>
     </option>
   </component>
@@ -484,18 +453,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1762" />
-    <option name="height" value="838" />
+    <option name="width" value="1680" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -535,23 +505,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rec10" type="462c0819:PsiDirectoryNode" />
               <item name="plugin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541004850191" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541004899502" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -565,40 +533,133 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2ae0503-11f0-4ad9-ba03-6bc8321c1543" name="Default Changelist" comment="" />
-      <created>1541004026715</created>
+      <changelist id="820fcd8f-cd7e-4cff-bf1f-4996e4a9160d" name="Default Changelist" comment="" />
+      <created>1541004065434</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541004026715</updated>
-      <workItem from="1541004028929" duration="719000" />
+      <updated>1541004065434</updated>
+      <workItem from="1541004072435" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="719000" />
+    <option name="totallyTimeSpent" value="157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="838" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -606,16 +667,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,35 +693,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MemoryPlugin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/SortWithSwapsPlugin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="60">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#2004#2005#0" expanded="true" />
-            <element signature="e#2052#2053#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2982#2983#0" expanded="true" />
-            <element signature="e#3039#3040#0" expanded="true" />
-            <element signature="e#3073#3074#0" expanded="true" />
-            <element signature="e#3113#3114#0" expanded="true" />
           </folding>
         </state>
       </provider>
