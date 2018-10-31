@@ -6,7 +6,6 @@ import edu.cmu.cs.cs214.rec10.framework.core.GamePlugin;
 import java.util.*;
 
 public class MoneyDoorPlugin implements GamePlugin {
-
     private int[] arr = {-3, -2, -1, 0, 1, 2, 3, 4, 5, 6};
     private int ONE = 1;
     private int TEN = 10;
